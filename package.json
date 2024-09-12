@@ -1,0 +1,15 @@
+{
+  "name": "com.sangoutils.securitychecksystem",
+  "displayName": "SangoUtils SecurityCheckSystem",
+  "version": "1.0.0",
+  "unity": "2019.2",
+  "unityRelease": "0a10",
+  "description": "The Security Check System in Unity.",
+  "keywords": [
+    "SangoUtils",
+    "SecurityCheckSystem"
+  ],
+  "dependencies": {
+    "com.unity.textmeshpro": "3.0.6"
+  }
+}
